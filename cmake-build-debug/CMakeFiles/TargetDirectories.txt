@@ -1,0 +1,3 @@
+/home/norbert/Dokumenty/wppt/nokia/lista4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/norbert/Dokumenty/wppt/nokia/lista4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/norbert/Dokumenty/wppt/nokia/lista4/cmake-build-debug/CMakeFiles/modern_cpp.dir

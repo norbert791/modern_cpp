@@ -11,8 +11,8 @@ set(SRC_LIST
     Square.cpp
     Shape.cpp
     main.cpp
-)
+        Color.cpp Color.hpp FactoryMethod.h FactoryMethod.cpp)
 
 add_executable(${PROJECT_NAME} ${SRC_LIST})
 # add_compile_options(${PROJECT_NAME} -Wall -Werror -Wpedantic -Wextra)
-target_compile_options(${PROJECT_NAME} PUBLIC -Wall -Werror -Wpedantic -Wextra)
+target_compile_options(${PROJECT_NAME} PUBLIC -Wall -Werror -Wpedantic -Wextra -fconstexpr-ops-limit=10000000000)

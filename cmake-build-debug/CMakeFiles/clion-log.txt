@@ -1,0 +1,4 @@
+/var/lib/snapd/snap/clion/184/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" /home/norbert/Dokumenty/wppt/nokia/lista4
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/norbert/Dokumenty/wppt/nokia/lista4
